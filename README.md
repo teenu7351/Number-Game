@@ -1,2 +1,2 @@
-# Number_Game
+# Number-Game
 Java Programming
